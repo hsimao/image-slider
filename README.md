@@ -1,5 +1,5 @@
 # image slider
-## 圖片滑動插件 image slider, banner slider
+## 圖片滑動插件 image slider, banner slider
 
 live demo https://hsimao.github.io/image-slider/
 
